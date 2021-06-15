@@ -2,7 +2,7 @@
 
 An interactive report on IMDb Movies dataset created using Power BI Desktop.
 
-### Clean the dataset
+## Clean the dataset
 
 <ol>
 <li> The datatype of columns was changed. </li>
@@ -14,12 +14,14 @@ An interactive report on IMDb Movies dataset created using Power BI Desktop.
 </ol>
 
 
-###  After cleaning, reports were made on 'Director' and 'Movie' attributes
+##  After cleaning, reports were made on 'Director' and 'Movie' attributes
 
-<b> Directors </b>
+### Directors 
 
 ![Screenshot](img_dir.png)
 
-<b> Movies </b>
+
+
+### Movies 
 
 ![Screenshot](img_movie.png)
