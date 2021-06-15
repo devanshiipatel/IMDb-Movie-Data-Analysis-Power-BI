@@ -16,5 +16,10 @@ An interactive report on IMDb Movies dataset created using Power BI Desktop.
 
 ###  After cleaning, reports were made on 'Director' and 'Movie' attributes
 
-<b> Director </b>
+<b> Directors </b>
 
+![Screenshot](img_dir.png)
+
+<b> Movies </b>
+
+![Screenshot](img_movie.png)
